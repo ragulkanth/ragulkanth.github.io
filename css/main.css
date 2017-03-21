@@ -70,9 +70,10 @@ a:hover, a:active, a:visited, a:link {
   margin-bottom: 40px;
 }
 
- /* Turn off parallax scrolling for tablets and phones. Increase/decrease the pixels if needed */
+ /* Turn off parallax scrolling for tablets and phones. Increase/decrease the pixels if needed 
 @media only screen and (max-device-width: 1024px) {
     .parallax {
         background-attachment: scroll;
     }
 }
+*/
